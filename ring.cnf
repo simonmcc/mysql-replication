@@ -1,0 +1,21 @@
+hosts:
+    db4 : yellow 
+    bd1 : LightYellow
+    bd2 : Gold 
+    db9 : LightGoldenrod 
+    bd3 : DarkKhaki 
+    bd4 : DarkOliveGreen
+    s-db1 : lightskyblue 
+    s-bd1 : Aquamarine 
+    d04-01 : burlywood 
+    d04-02 : DarkGoldenrod 
+    d04-03 : Peru 
+    b04-01 : orangered 
+    b04-02 : Coral 
+    b04-03 : DarkSalmon 
+
+layout: neato
+username: replication
+password: changeme 
+
+imagedir : /var/www/
